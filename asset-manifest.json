@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
-    "main.js": "/react-gh-pages/static/js/main.07cc3bcf.js",
-    "static/js/453.f39ec6d9.chunk.js": "/react-gh-pages/static/js/453.f39ec6d9.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
-    "main.07cc3bcf.js.map": "/react-gh-pages/static/js/main.07cc3bcf.js.map",
-    "453.f39ec6d9.chunk.js.map": "/react-gh-pages/static/js/453.f39ec6d9.chunk.js.map"
+    "main.css": "/Travel-APP/static/css/main.e6c13ad2.css",
+    "main.js": "/Travel-APP/static/js/main.23eb62f2.js",
+    "static/js/453.f39ec6d9.chunk.js": "/Travel-APP/static/js/453.f39ec6d9.chunk.js",
+    "index.html": "/Travel-APP/index.html",
+    "main.e6c13ad2.css.map": "/Travel-APP/static/css/main.e6c13ad2.css.map",
+    "main.23eb62f2.js.map": "/Travel-APP/static/js/main.23eb62f2.js.map",
+    "453.f39ec6d9.chunk.js.map": "/Travel-APP/static/js/453.f39ec6d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.07cc3bcf.js"
+    "static/js/main.23eb62f2.js"
   ]
 }
